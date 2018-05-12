@@ -1,0 +1,37 @@
+_repo: -Some-Say---Neighbours-in-Cyrus_27251
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2008-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27251'
+  lccn: '12038075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+- !lcsh 'Neighbors -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Clergy -- Juvenile fiction'
+title: '"Some Say"; Neighbours in Cyrus'
+url: http://www.gutenberg.org/ebooks/27251
